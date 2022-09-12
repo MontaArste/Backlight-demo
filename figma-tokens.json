@@ -1,32 +1,15 @@
 {
   "ids": {
-    "tokenset": "global",
     "color": {
       "light-blue": {
         "100": {
-          "color-name": "Gas Giant",
           "value": "rgb(151, 226, 247)",
-          "nob": ["system", "category", "variant", "scale"],
-          "rgb": "rgb(151, 226, 247)",
-          "hex": "#97e2f7",
-          "internal-name": "CB 3",
-          "pmsc": "PMS 291 C",
-          "pmsu": "PMS 544 U",
-          "cmykc": "35, 0, 2, 0",
-          "cmyku": "34, 3, 0, 2",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
-            "color-name": "Gas Giant",
             "value": "rgb(151, 226, 247)",
-            "nob": ["system", "category", "variant", "scale"],
-            "rgb": "rgb(151, 226, 247)",
-            "hex": "#97e2f7",
-            "internal-name": "CB 3",
-            "pmsc": "PMS 291 C",
-            "pmsu": "PMS 544 U",
-            "cmykc": "35, 0, 2, 0",
-            "cmyku": "34, 3, 0, 2"
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -34,12 +17,22 @@
             "item": "light-blue",
             "subitem": "100"
           },
-          "path": ["ids", "color", "light-blue", "100"]
+          "path": [
+            "ids",
+            "color",
+            "light-blue",
+            "100"
+          ]
         },
         "200": {
           "color-name": "Blue Martini",
           "value": "rgb(76, 176, 211)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(76, 176, 211)",
           "hex": "#4cb0d3",
           "internal-name": "CB 2",
@@ -47,19 +40,26 @@
           "pmsu": "PMS 2389 U",
           "cmykc": "68, 13, 12, 0",
           "cmyku": "63, 16, 8, 0",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Blue Martini",
             "value": "rgb(76, 176, 211)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(76, 176, 211)",
             "hex": "#4cb0d3",
             "internal-name": "CB 2",
             "pmsc": "PMS 2389 C",
             "pmsu": "PMS 2389 U",
             "cmykc": "68, 13, 12, 0",
-            "cmyku": "63, 16, 8, 0"
+            "cmyku": "63, 16, 8, 0",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -67,12 +67,22 @@
             "item": "light-blue",
             "subitem": "200"
           },
-          "path": ["ids", "color", "light-blue", "200"]
+          "path": [
+            "ids",
+            "color",
+            "light-blue",
+            "200"
+          ]
         },
         "300": {
           "color-name": "Vanity",
           "value": "rgb(83, 146, 178)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(83, 146, 178)",
           "hex": "#5392b2",
           "internal-name": "CB 1",
@@ -80,19 +90,26 @@
           "pmsu": "PMS 2149 U",
           "cmykc": "70, 37, 18, 10",
           "cmyku": "65, 30, 15, 5",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Vanity",
             "value": "rgb(83, 146, 178)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(83, 146, 178)",
             "hex": "#5392b2",
             "internal-name": "CB 1",
             "pmsc": "PMS 2159 C",
             "pmsu": "PMS 2149 U",
             "cmykc": "70, 37, 18, 10",
-            "cmyku": "65, 30, 15, 5"
+            "cmyku": "65, 30, 15, 5",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -100,14 +117,24 @@
             "item": "light-blue",
             "subitem": "300"
           },
-          "path": ["ids", "color", "light-blue", "300"]
+          "path": [
+            "ids",
+            "color",
+            "light-blue",
+            "300"
+          ]
         }
       },
       "blue": {
         "100": {
           "color-name": "Megaman Helmet",
           "value": "rgb(0,84,240)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(0,84,240)",
           "hex": "#0054f0",
           "internal-name": "BL 1",
@@ -116,12 +143,18 @@
           "ncs": "S 2565-R80B",
           "ral": "270 40 40 Zauberblau",
           "tcx": "18-4051 TCX",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Megaman Helmet",
             "value": "rgb(0,84,240)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(0,84,240)",
             "hex": "#0054f0",
             "internal-name": "BL 1",
@@ -129,7 +162,8 @@
             "cmyk": "100,30,0,0",
             "ncs": "S 2565-R80B",
             "ral": "270 40 40 Zauberblau",
-            "tcx": "18-4051 TCX"
+            "tcx": "18-4051 TCX",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -137,26 +171,43 @@
             "item": "blue",
             "subitem": "100"
           },
-          "path": ["ids", "color", "blue", "100"]
+          "path": [
+            "ids",
+            "color",
+            "blue",
+            "100"
+          ]
         },
         "200": {
           "color-name": "Bracing Blue",
           "value": "rgb(0, 64, 128)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(0, 64, 128)",
           "hex": "#004080",
           "internal-name": "BL 1 Dark",
           "cmyk": "100,50,0,50",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Bracing Blue",
             "value": "rgb(0, 64, 128)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(0, 64, 128)",
             "hex": "#004080",
             "internal-name": "BL 1 Dark",
-            "cmyk": "100,50,0,50"
+            "cmyk": "100,50,0,50",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -164,26 +215,43 @@
             "item": "blue",
             "subitem": "200"
           },
-          "path": ["ids", "color", "blue", "200"]
+          "path": [
+            "ids",
+            "color",
+            "blue",
+            "200"
+          ]
         }
       },
       "orange": {
         "100": {
           "color-name": "Wiener Schnitzel",
           "value": "rgb(240, 156, 0)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(240, 156, 0)",
           "hex": "#f09c00",
           "internal-name": "BL 1 Complement, Deprecated",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Wiener Schnitzel",
             "value": "rgb(240, 156, 0)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(240, 156, 0)",
             "hex": "#f09c00",
-            "internal-name": "BL 1 Complement, Deprecated"
+            "internal-name": "BL 1 Complement, Deprecated",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -191,32 +259,49 @@
             "item": "orange",
             "subitem": "100"
           },
-          "path": ["ids", "color", "orange", "100"]
+          "path": [
+            "ids",
+            "color",
+            "orange",
+            "100"
+          ]
         }
       },
       "beige": {
         "100": {
           "color-name": "Doctor",
           "value": "rgb(250,249,247)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(250,249,247)",
           "hex": "#faf9f7",
           "internal-name": "BE 5",
           "pms": "PMS 9223 / 20%",
           "cmykc": "5, 10, 15, 3 / 20%",
           "cmyku": "3, 8, 14, 2 / 20%",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Doctor",
             "value": "rgb(250,249,247)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(250,249,247)",
             "hex": "#faf9f7",
             "internal-name": "BE 5",
             "pms": "PMS 9223 / 20%",
             "cmykc": "5, 10, 15, 3 / 20%",
-            "cmyku": "3, 8, 14, 2 / 20%"
+            "cmyku": "3, 8, 14, 2 / 20%",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -224,30 +309,47 @@
             "item": "beige",
             "subitem": "100"
           },
-          "path": ["ids", "color", "beige", "100"]
+          "path": [
+            "ids",
+            "color",
+            "beige",
+            "100"
+          ]
         },
         "200": {
           "color-name": "The Speed Of Light",
           "value": "rgb(246,243,240)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(246,243,240)",
           "hex": "#f6f3f0",
           "internal-name": "BE 4",
           "pms": "PMS 9223 / 40%",
           "cmykc": "5, 10, 15, 3 / 40%",
           "cmyku": "3, 8, 14, 2 / 40%",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "The Speed Of Light",
             "value": "rgb(246,243,240)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(246,243,240)",
             "hex": "#f6f3f0",
             "internal-name": "BE 4",
             "pms": "PMS 9223 / 40%",
             "cmykc": "5, 10, 15, 3 / 40%",
-            "cmyku": "3, 8, 14, 2 / 40%"
+            "cmyku": "3, 8, 14, 2 / 40%",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -255,30 +357,47 @@
             "item": "beige",
             "subitem": "200"
           },
-          "path": ["ids", "color", "beige", "200"]
+          "path": [
+            "ids",
+            "color",
+            "beige",
+            "200"
+          ]
         },
         "300": {
           "color-name": "Valhallan Blizzard",
           "value": "rgb(241,236,232)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(241,236,232)",
           "hex": "#f1ece8",
           "internal-name": "BE 3",
           "pms": "PMS 9223 / 60%",
           "cmykc": "5, 10, 15, 3 / 60%",
           "cmyku": "3, 8, 14, 2 / 60%",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Valhallan Blizzard",
             "value": "rgb(241,236,232)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(241,236,232)",
             "hex": "#f1ece8",
             "internal-name": "BE 3",
             "pms": "PMS 9223 / 60%",
             "cmykc": "5, 10, 15, 3 / 60%",
-            "cmyku": "3, 8, 14, 2 / 60%"
+            "cmyku": "3, 8, 14, 2 / 60%",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -286,30 +405,47 @@
             "item": "beige",
             "subitem": "300"
           },
-          "path": ["ids", "color", "beige", "300"]
+          "path": [
+            "ids",
+            "color",
+            "beige",
+            "300"
+          ]
         },
         "400": {
           "color-name": "Desert Storm",
           "value": "rgb(237,230,225)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(237,230,225)",
           "hex": "#ede6e1",
           "internal-name": "BE 2",
           "pmsc": "PMS 9223 / 80%",
           "cmykc": "5, 10, 15, 3 / 80%",
           "cmyku": "3, 8, 14, 2 / 80%",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Desert Storm",
             "value": "rgb(237,230,225)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(237,230,225)",
             "hex": "#ede6e1",
             "internal-name": "BE 2",
             "pmsc": "PMS 9223 / 80%",
             "cmykc": "5, 10, 15, 3 / 80%",
-            "cmyku": "3, 8, 14, 2 / 80%"
+            "cmyku": "3, 8, 14, 2 / 80%",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -317,12 +453,22 @@
             "item": "beige",
             "subitem": "400"
           },
-          "path": ["ids", "color", "beige", "400"]
+          "path": [
+            "ids",
+            "color",
+            "beige",
+            "400"
+          ]
         },
         "500": {
           "color-name": "Stone Harbour",
           "value": "rgb(232,224,217)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(232,224,217)",
           "hex": "#e8e0d9",
           "internal-name": "BE 1",
@@ -332,12 +478,18 @@
           "ncs": "1005-Y60R",
           "ral": "060 85 05 Champagnerosé",
           "tcx": "12-0000 TCX",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Stone Harbour",
             "value": "rgb(232,224,217)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(232,224,217)",
             "hex": "#e8e0d9",
             "internal-name": "BE 1",
@@ -346,7 +498,8 @@
             "cmyku": "3, 8, 14, 2",
             "ncs": "1005-Y60R",
             "ral": "060 85 05 Champagnerosé",
-            "tcx": "12-0000 TCX"
+            "tcx": "12-0000 TCX",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -354,14 +507,24 @@
             "item": "beige",
             "subitem": "500"
           },
-          "path": ["ids", "color", "beige", "500"]
+          "path": [
+            "ids",
+            "color",
+            "beige",
+            "500"
+          ]
         }
       },
       "pink": {
         "100": {
           "color-name": "Peach Crayon",
           "value": "rgb(255, 201, 166)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(255, 201, 166)",
           "hex": "#ffc9a6",
           "internal-name": "CR 3",
@@ -369,19 +532,26 @@
           "pmsu": "PMS 7520 U",
           "cmykc": "0, 20, 25, 5",
           "cmyku": "5, 17, 31, 0",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Peach Crayon",
             "value": "rgb(255, 201, 166)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(255, 201, 166)",
             "hex": "#ffc9a6",
             "internal-name": "CR 3",
             "pmsc": "PMS 7520 C",
             "pmsu": "PMS 7520 U",
             "cmykc": "0, 20, 25, 5",
-            "cmyku": "5, 17, 31, 0"
+            "cmyku": "5, 17, 31, 0",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -389,12 +559,22 @@
             "item": "pink",
             "subitem": "100"
           },
-          "path": ["ids", "color", "pink", "100"]
+          "path": [
+            "ids",
+            "color",
+            "pink",
+            "100"
+          ]
         },
         "200": {
           "color-name": "Fresh Salmon",
           "value": "rgb(255, 133, 105)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(255, 133, 105)",
           "hex": "#ff8569",
           "internal-name": "CR 2",
@@ -405,12 +585,18 @@
           "ncs": "S 1050-Y80R",
           "ral": "030 70 40 Flamingorot",
           "tcx": "16-1526 TCX",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Fresh Salmon",
             "value": "rgb(255, 133, 105)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(255, 133, 105)",
             "hex": "#ff8569",
             "internal-name": "CR 2",
@@ -420,7 +606,8 @@
             "cmyku": "0, 47, 46, 0",
             "ncs": "S 1050-Y80R",
             "ral": "030 70 40 Flamingorot",
-            "tcx": "16-1526 TCX"
+            "tcx": "16-1526 TCX",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -428,12 +615,22 @@
             "item": "pink",
             "subitem": "200"
           },
-          "path": ["ids", "color", "pink", "200"]
+          "path": [
+            "ids",
+            "color",
+            "pink",
+            "200"
+          ]
         },
         "300": {
           "color-name": "Musk Deer",
           "value": "rgb(128, 92, 92)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(128, 92, 92)",
           "hex": "#805c5c",
           "internal-name": "CR 1",
@@ -444,12 +641,18 @@
           "ncs": "S 5020-R10B",
           "ral": "360 40 15 Rubingrau",
           "tcx": "18-1612 TCX",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Musk Deer",
             "value": "rgb(128, 92, 92)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(128, 92, 92)",
             "hex": "#805c5c",
             "internal-name": "CR 1",
@@ -459,7 +662,8 @@
             "cmyku": "0, 42, 15, 48",
             "ncs": "S 5020-R10B",
             "ral": "360 40 15 Rubingrau",
-            "tcx": "18-1612 TCX"
+            "tcx": "18-1612 TCX",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -467,26 +671,43 @@
             "item": "pink",
             "subitem": "300"
           },
-          "path": ["ids", "color", "pink", "300"]
+          "path": [
+            "ids",
+            "color",
+            "pink",
+            "300"
+          ]
         }
       },
       "green": {
         "100": {
           "color-name": "Camarone",
           "value": "rgb(33, 115, 49)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(33, 115, 49)",
           "hex": "#217331",
           "internal-name": "green",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Camarone",
             "value": "rgb(33, 115, 49)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(33, 115, 49)",
             "hex": "#217331",
-            "internal-name": "green"
+            "internal-name": "green",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -494,26 +715,43 @@
             "item": "green",
             "subitem": "100"
           },
-          "path": ["ids", "color", "green", "100"]
+          "path": [
+            "ids",
+            "color",
+            "green",
+            "100"
+          ]
         }
       },
       "red": {
         "100": {
           "color-name": "Virtual Boy",
           "value": "rgb(187, 50, 12)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(187, 50, 12)",
           "hex": "#bb320c",
           "internal-name": "red",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Virtual Boy",
             "value": "rgb(187, 50, 12)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(187, 50, 12)",
             "hex": "#bb320c",
-            "internal-name": "red"
+            "internal-name": "red",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -521,14 +759,24 @@
             "item": "red",
             "subitem": "100"
           },
-          "path": ["ids", "color", "red", "100"]
+          "path": [
+            "ids",
+            "color",
+            "red",
+            "100"
+          ]
         }
       },
       "brown": {
         "100": {
           "color-name": "Fozzie Bear",
           "value": "rgb(110,98,94)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(110,98,94)",
           "hex": "#6e625e",
           "internal-name": "LB 1",
@@ -538,12 +786,18 @@
           "ncs": "6010-Y30R",
           "ral": "060 50 10 Sandsteingrau",
           "tcx": "18-1017 TCX",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Fozzie Bear",
             "value": "rgb(110,98,94)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(110,98,94)",
             "hex": "#6e625e",
             "internal-name": "LB 1",
@@ -552,7 +806,8 @@
             "cmyku": "14, 23, 33, 46",
             "ncs": "6010-Y30R",
             "ral": "060 50 10 Sandsteingrau",
-            "tcx": "18-1017 TCX"
+            "tcx": "18-1017 TCX",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -560,12 +815,22 @@
             "item": "brown",
             "subitem": "100"
           },
-          "path": ["ids", "color", "brown", "100"]
+          "path": [
+            "ids",
+            "color",
+            "brown",
+            "100"
+          ]
         },
         "200": {
           "color-name": "Black Slug",
           "value": "rgb(51,30,17)",
-          "nob": ["system", "category", "variant", "scale"],
+          "nob": [
+            "system",
+            "category",
+            "variant",
+            "scale"
+          ],
           "rgb": "rgb(51,30,17)",
           "hex": "#331e11",
           "internal-name": "BR 1",
@@ -575,12 +840,18 @@
           "ncs": "S 8010-Y50R",
           "ral": "050 30 10 Obsidianbraun",
           "tcx": "19-0814 TCX",
+          "type": "color",
           "filePath": "colors/src/colors.tokens.json",
           "isSource": true,
           "original": {
             "color-name": "Black Slug",
             "value": "rgb(51,30,17)",
-            "nob": ["system", "category", "variant", "scale"],
+            "nob": [
+              "system",
+              "category",
+              "variant",
+              "scale"
+            ],
             "rgb": "rgb(51,30,17)",
             "hex": "#331e11",
             "internal-name": "BR 1",
@@ -589,7 +860,8 @@
             "cmyku": "25, 70, 70, 80",
             "ncs": "S 8010-Y50R",
             "ral": "050 30 10 Obsidianbraun",
-            "tcx": "19-0814 TCX"
+            "tcx": "19-0814 TCX",
+            "type": "color"
           },
           "attributes": {
             "category": "ids",
@@ -597,233 +869,12 @@
             "item": "brown",
             "subitem": "200"
           },
-          "path": ["ids", "color", "brown", "200"]
-        }
-      },
-      "teal": {
-        "100": {
-          "color-name": "Spearmint Water",
-          "value": "rgb(181, 237, 232)",
-          "nob": ["system", "category", "variant", "scale"],
-          "rgb": "rgb(181, 237, 232)",
-          "hex": "#b5ede8",
-          "internal-name": "CG 3",
-          "pmsc": "PMS 7457 C",
-          "pmsu": "PMS 5523 U",
-          "cmykc": "25, 0, 13, 0",
-          "cmyku": "20, 0, 12, 0",
-          "filePath": "colors/src/colors.tokens.json",
-          "isSource": true,
-          "original": {
-            "color-name": "Spearmint Water",
-            "value": "rgb(181, 237, 232)",
-            "nob": ["system", "category", "variant", "scale"],
-            "rgb": "rgb(181, 237, 232)",
-            "hex": "#b5ede8",
-            "internal-name": "CG 3",
-            "pmsc": "PMS 7457 C",
-            "pmsu": "PMS 5523 U",
-            "cmykc": "25, 0, 13, 0",
-            "cmyku": "20, 0, 12, 0"
-          },
-          "attributes": {
-            "category": "ids",
-            "type": "color",
-            "item": "teal",
-            "subitem": "100"
-          },
-          "path": ["ids", "color", "teal", "100"]
-        },
-        "200": {
-          "color-name": "Tranquil Teal",
-          "value": "rgb(135, 199, 186)",
-          "nob": ["system", "category", "variant", "scale"],
-          "rgb": "rgb(135, 199, 186)",
-          "hex": "#87c7ba",
-          "internal-name": "CG 2",
-          "pmsc": "PMS 564 C",
-          "pmsu": "PMS 565 U",
-          "cmykc": "53, 0, 32, 0",
-          "cmyku": "42, 0, 27, 0",
-          "ncs": "S 1030-B50G",
-          "ral": "18 80 20 Opalturkis",
-          "tcx": "14-5711 TCX",
-          "filePath": "colors/src/colors.tokens.json",
-          "isSource": true,
-          "original": {
-            "color-name": "Tranquil Teal",
-            "value": "rgb(135, 199, 186)",
-            "nob": ["system", "category", "variant", "scale"],
-            "rgb": "rgb(135, 199, 186)",
-            "hex": "#87c7ba",
-            "internal-name": "CG 2",
-            "pmsc": "PMS 564 C",
-            "pmsu": "PMS 565 U",
-            "cmykc": "53, 0, 32, 0",
-            "cmyku": "42, 0, 27, 0",
-            "ncs": "S 1030-B50G",
-            "ral": "18 80 20 Opalturkis",
-            "tcx": "14-5711 TCX"
-          },
-          "attributes": {
-            "category": "ids",
-            "type": "color",
-            "item": "teal",
-            "subitem": "200"
-          },
-          "path": ["ids", "color", "teal", "200"]
-        },
-        "300": {
-          "color-name": "Little League",
-          "value": "rgb(107, 153, 148)",
-          "nob": ["system", "category", "variant", "scale"],
-          "rgb": "rgb(107, 153, 148)",
-          "hex": "#6b9994",
-          "internal-name": "CG 1",
-          "pmsc": "PMS 2211 C",
-          "pmsu": "PMS 5493 U",
-          "cmykc": "63, 25, 35, 5",
-          "cmyku": "47, 6, 20, 20",
-          "ncs": "S 4020-B30G",
-          "ral": "200 60 15 Waidindigo",
-          "tcx": "17-5110 TCX",
-          "filePath": "colors/src/colors.tokens.json",
-          "isSource": true,
-          "original": {
-            "color-name": "Little League",
-            "value": "rgb(107, 153, 148)",
-            "nob": ["system", "category", "variant", "scale"],
-            "rgb": "rgb(107, 153, 148)",
-            "hex": "#6b9994",
-            "internal-name": "CG 1",
-            "pmsc": "PMS 2211 C",
-            "pmsu": "PMS 5493 U",
-            "cmykc": "63, 25, 35, 5",
-            "cmyku": "47, 6, 20, 20",
-            "ncs": "S 4020-B30G",
-            "ral": "200 60 15 Waidindigo",
-            "tcx": "17-5110 TCX"
-          },
-          "attributes": {
-            "category": "ids",
-            "type": "color",
-            "item": "teal",
-            "subitem": "300"
-          },
-          "path": ["ids", "color", "teal", "300"]
-        }
-      },
-      "yellow": {
-        "100": {
-          "color-name": "Swedish Yellow",
-          "value": "rgb(255, 224, 130)",
-          "nob": ["system", "category", "variant", "scale"],
-          "rgb": "rgb(255, 224, 130)",
-          "hex": "#ffe082",
-          "internal-name": "CY 3",
-          "pmsc": "PMS 7402 C",
-          "pmsu": "PMS 2001 U",
-          "cmykc": "0, 6, 53, 0",
-          "cmyku": "0, 3, 48, 0",
-          "filePath": "colors/src/colors.tokens.json",
-          "isSource": true,
-          "original": {
-            "color-name": "Swedish Yellow",
-            "value": "rgb(255, 224, 130)",
-            "nob": ["system", "category", "variant", "scale"],
-            "rgb": "rgb(255, 224, 130)",
-            "hex": "#ffe082",
-            "internal-name": "CY 3",
-            "pmsc": "PMS 7402 C",
-            "pmsu": "PMS 2001 U",
-            "cmykc": "0, 6, 53, 0",
-            "cmyku": "0, 3, 48, 0"
-          },
-          "attributes": {
-            "category": "ids",
-            "type": "color",
-            "item": "yellow",
-            "subitem": "100"
-          },
-          "path": ["ids", "color", "yellow", "100"]
-        },
-        "200": {
-          "color-name": "Go Bananas",
-          "value": "rgb(252, 199, 79)",
-          "nob": ["system", "category", "variant", "scale"],
-          "rgb": "rgb(252, 199, 79)",
-          "hex": "#fcc74f",
-          "internal-name": "CY 2",
-          "pmsc": "PMS 141 C",
-          "pmsu": "PMS 7403 U",
-          "cmykc": "0, 20, 72, 0",
-          "cmyku": "0, 14, 65, 0",
-          "ncs": "S 1050-Y10R",
-          "ral": "080 80 60 Vollgelb",
-          "tcx": "14-0846 TCX",
-          "filePath": "colors/src/colors.tokens.json",
-          "isSource": true,
-          "original": {
-            "color-name": "Go Bananas",
-            "value": "rgb(252, 199, 79)",
-            "nob": ["system", "category", "variant", "scale"],
-            "rgb": "rgb(252, 199, 79)",
-            "hex": "#fcc74f",
-            "internal-name": "CY 2",
-            "pmsc": "PMS 141 C",
-            "pmsu": "PMS 7403 U",
-            "cmykc": "0, 20, 72, 0",
-            "cmyku": "0, 14, 65, 0",
-            "ncs": "S 1050-Y10R",
-            "ral": "080 80 60 Vollgelb",
-            "tcx": "14-0846 TCX"
-          },
-          "attributes": {
-            "category": "ids",
-            "type": "color",
-            "item": "yellow",
-            "subitem": "200"
-          },
-          "path": ["ids", "color", "yellow", "200"]
-        },
-        "300": {
-          "color-name": "Apple Cinnamon",
-          "value": "rgb(176, 135, 89)",
-          "nob": ["system", "category", "variant", "scale"],
-          "rgb": "rgb(176, 135, 89)",
-          "hex": "#b08759",
-          "internal-name": "CY 1",
-          "pmsc": "PMS 2317 C",
-          "pmsu": "PMS 2313 U",
-          "cmykc": "35, 48, 70, 5",
-          "cmyku": "0, 30, 54, 27",
-          "ncs": "S 4030-Y30R",
-          "ral": "060 50 30 Senfbraun",
-          "tcx": "17-1125 TCX",
-          "filePath": "colors/src/colors.tokens.json",
-          "isSource": true,
-          "original": {
-            "color-name": "Apple Cinnamon",
-            "value": "rgb(176, 135, 89)",
-            "nob": ["system", "category", "variant", "scale"],
-            "rgb": "rgb(176, 135, 89)",
-            "hex": "#b08759",
-            "internal-name": "CY 1",
-            "pmsc": "PMS 2317 C",
-            "pmsu": "PMS 2313 U",
-            "cmykc": "35, 48, 70, 5",
-            "cmyku": "0, 30, 54, 27",
-            "ncs": "S 4030-Y30R",
-            "ral": "060 50 30 Senfbraun",
-            "tcx": "17-1125 TCX"
-          },
-          "attributes": {
-            "category": "ids",
-            "type": "color",
-            "item": "yellow",
-            "subitem": "300"
-          },
-          "path": ["ids", "color", "yellow", "300"]
+          "path": [
+            "ids",
+            "color",
+            "brown",
+            "200"
+          ]
         }
       }
     }
