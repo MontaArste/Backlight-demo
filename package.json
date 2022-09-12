@@ -8,6 +8,8 @@
   "scripts": {
     "serve": "npx backlight@latest serve vsn2rt4KSegcvY4GHi2f --open"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@divriots/style-dictionary-to-figma": "^0.3.1"
+  },
   "dependencies": {}
 }
