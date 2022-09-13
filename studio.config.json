@@ -6,7 +6,9 @@
     "TOKENS",
     [
      "shadows",
-     "colors"
+     "colors",
+     "shadows",
+     "size"
     ]
    ],
    [
