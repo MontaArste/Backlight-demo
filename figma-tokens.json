@@ -2988,5 +2988,245 @@
         ]
       }
     }
+  },
+  "themeDark": {
+    "rlx": {
+      "ui-shell": {
+        "color": {
+          "background": {
+            "nob": [
+              "system",
+              "component",
+              "category",
+              "property"
+            ],
+            "value": "rgb(201, 221, 234)",
+            "filePath": "theme/src/darkTheme.tokens.json",
+            "isSource": true,
+            "original": {
+              "nob": [
+                "system",
+                "component",
+                "category",
+                "property"
+              ],
+              "value": "rgb(201, 221, 234)"
+            },
+            "attributes": {
+              "category": "rlx",
+              "type": "ui-shell",
+              "item": "color",
+              "subitem": "background"
+            },
+            "path": [
+              "rlx",
+              "ui-shell",
+              "color",
+              "background"
+            ]
+          }
+        }
+      },
+      "menubar": {
+        "action-button": {
+          "color": {
+            "text": {
+              "normal": {
+                "nob": [
+                  "system",
+                  "component",
+                  "element",
+                  "category",
+                  "variant",
+                  "state"
+                ],
+                "value": "rgb(8, 59, 92)",
+                "filePath": "theme/src/darkTheme.tokens.json",
+                "isSource": true,
+                "original": {
+                  "nob": [
+                    "system",
+                    "component",
+                    "element",
+                    "category",
+                    "variant",
+                    "state"
+                  ],
+                  "value": "rgb(8, 59, 92)"
+                },
+                "attributes": {
+                  "category": "rlx",
+                  "type": "menubar",
+                  "item": "action-button",
+                  "subitem": "color",
+                  "state": "text"
+                },
+                "path": [
+                  "rlx",
+                  "menubar",
+                  "action-button",
+                  "color",
+                  "text",
+                  "normal"
+                ]
+              },
+              "hover": {
+                "nob": [
+                  "system",
+                  "component",
+                  "element",
+                  "category",
+                  "variant",
+                  "state"
+                ],
+                "value": "rgb(47, 120, 168)",
+                "filePath": "theme/src/darkTheme.tokens.json",
+                "isSource": true,
+                "original": {
+                  "nob": [
+                    "system",
+                    "component",
+                    "element",
+                    "category",
+                    "variant",
+                    "state"
+                  ],
+                  "value": "rgb(47, 120, 168)"
+                },
+                "attributes": {
+                  "category": "rlx",
+                  "type": "menubar",
+                  "item": "action-button",
+                  "subitem": "color",
+                  "state": "text"
+                },
+                "path": [
+                  "rlx",
+                  "menubar",
+                  "action-button",
+                  "color",
+                  "text",
+                  "hover"
+                ]
+              }
+            },
+            "background": {
+              "normal": {
+                "nob": [
+                  "system",
+                  "component",
+                  "element",
+                  "category",
+                  "variant",
+                  "state"
+                ],
+                "value": "transparent",
+                "filePath": "theme/src/darkTheme.tokens.json",
+                "isSource": true,
+                "original": {
+                  "nob": [
+                    "system",
+                    "component",
+                    "element",
+                    "category",
+                    "variant",
+                    "state"
+                  ],
+                  "value": "transparent"
+                },
+                "attributes": {
+                  "category": "rlx",
+                  "type": "menubar",
+                  "item": "action-button",
+                  "subitem": "color",
+                  "state": "background"
+                },
+                "path": [
+                  "rlx",
+                  "menubar",
+                  "action-button",
+                  "color",
+                  "background",
+                  "normal"
+                ]
+              },
+              "hover": {
+                "nob": [
+                  "system",
+                  "component",
+                  "element",
+                  "category",
+                  "variant",
+                  "state"
+                ],
+                "value": "rgb(255,255,255)",
+                "filePath": "theme/src/darkTheme.tokens.json",
+                "isSource": true,
+                "original": {
+                  "nob": [
+                    "system",
+                    "component",
+                    "element",
+                    "category",
+                    "variant",
+                    "state"
+                  ],
+                  "value": "rgb(255,255,255)"
+                },
+                "attributes": {
+                  "category": "rlx",
+                  "type": "menubar",
+                  "item": "action-button",
+                  "subitem": "color",
+                  "state": "background"
+                },
+                "path": [
+                  "rlx",
+                  "menubar",
+                  "action-button",
+                  "color",
+                  "background",
+                  "hover"
+                ]
+              }
+            }
+          }
+        },
+        "color": {
+          "background": {
+            "nob": [
+              "system",
+              "component",
+              "category",
+              "property"
+            ],
+            "value": "rgb(201, 221, 234)",
+            "filePath": "theme/src/darkTheme.tokens.json",
+            "isSource": true,
+            "original": {
+              "nob": [
+                "system",
+                "component",
+                "category",
+                "property"
+              ],
+              "value": "rgb(201, 221, 234)"
+            },
+            "attributes": {
+              "category": "rlx",
+              "type": "menubar",
+              "item": "color",
+              "subitem": "background"
+            },
+            "path": [
+              "rlx",
+              "menubar",
+              "color",
+              "background"
+            ]
+          }
+        }
+      }
+    }
   }
 }
