@@ -1305,6 +1305,1688 @@
           }
         }
       }
+    },
+    "size": {
+      "2": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "0.125rem",
+        "comment": "2px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "0.125rem",
+          "comment": "2px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "2"
+        },
+        "path": [
+          "ids",
+          "size",
+          "2"
+        ]
+      },
+      "4": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "0.25rem",
+        "comment": "4px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "0.25rem",
+          "comment": "4px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "4"
+        },
+        "path": [
+          "ids",
+          "size",
+          "4"
+        ]
+      },
+      "8": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "0.5rem",
+        "comment": "8px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "0.5rem",
+          "comment": "8px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "8"
+        },
+        "path": [
+          "ids",
+          "size",
+          "8"
+        ]
+      },
+      "12": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "0.75rem",
+        "comment": "12px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "0.75rem",
+          "comment": "12px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "12"
+        },
+        "path": [
+          "ids",
+          "size",
+          "12"
+        ]
+      },
+      "16": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "1rem",
+        "comment": "16px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "1rem",
+          "comment": "16px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "16"
+        },
+        "path": [
+          "ids",
+          "size",
+          "16"
+        ]
+      },
+      "20": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "1.25rem",
+        "comment": "20px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "1.25rem",
+          "comment": "20px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "20"
+        },
+        "path": [
+          "ids",
+          "size",
+          "20"
+        ]
+      },
+      "24": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "1.5rem",
+        "comment": "24px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "1.5rem",
+          "comment": "24px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "24"
+        },
+        "path": [
+          "ids",
+          "size",
+          "24"
+        ]
+      },
+      "28": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "1.75rem",
+        "comment": "28px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "1.75rem",
+          "comment": "28px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "28"
+        },
+        "path": [
+          "ids",
+          "size",
+          "28"
+        ]
+      },
+      "32": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "2rem",
+        "comment": "32px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "2rem",
+          "comment": "32px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "32"
+        },
+        "path": [
+          "ids",
+          "size",
+          "32"
+        ]
+      },
+      "36": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "2.25rem",
+        "comment": "36px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "2.25rem",
+          "comment": "36px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "36"
+        },
+        "path": [
+          "ids",
+          "size",
+          "36"
+        ]
+      },
+      "40": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "2.5rem",
+        "comment": "40px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "2.5rem",
+          "comment": "40px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "40"
+        },
+        "path": [
+          "ids",
+          "size",
+          "40"
+        ]
+      },
+      "44": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "2.75rem",
+        "comment": "44px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "2.75rem",
+          "comment": "44px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "44"
+        },
+        "path": [
+          "ids",
+          "size",
+          "44"
+        ]
+      },
+      "48": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "3rem",
+        "comment": "48px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "3rem",
+          "comment": "48px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "48"
+        },
+        "path": [
+          "ids",
+          "size",
+          "48"
+        ]
+      },
+      "52": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "3.25rem",
+        "comment": "52px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "3.25rem",
+          "comment": "52px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "52"
+        },
+        "path": [
+          "ids",
+          "size",
+          "52"
+        ]
+      },
+      "56": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "3.5rem",
+        "comment": "56px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "3.5rem",
+          "comment": "56px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "56"
+        },
+        "path": [
+          "ids",
+          "size",
+          "56"
+        ]
+      },
+      "60": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "3.75rem",
+        "comment": "60px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "3.75rem",
+          "comment": "60px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "60"
+        },
+        "path": [
+          "ids",
+          "size",
+          "60"
+        ]
+      },
+      "64": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "4rem",
+        "comment": "64px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "4rem",
+          "comment": "64px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "64"
+        },
+        "path": [
+          "ids",
+          "size",
+          "64"
+        ]
+      },
+      "68": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "4.25rem",
+        "comment": "68px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "4.25rem",
+          "comment": "68px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "68"
+        },
+        "path": [
+          "ids",
+          "size",
+          "68"
+        ]
+      },
+      "72": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "4.5rem",
+        "comment": "72px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "4.5rem",
+          "comment": "72px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "72"
+        },
+        "path": [
+          "ids",
+          "size",
+          "72"
+        ]
+      },
+      "76": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "4.75rem",
+        "comment": "76px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "4.75rem",
+          "comment": "76px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "76"
+        },
+        "path": [
+          "ids",
+          "size",
+          "76"
+        ]
+      },
+      "80": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "5rem",
+        "comment": "80px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "5rem",
+          "comment": "80px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "80"
+        },
+        "path": [
+          "ids",
+          "size",
+          "80"
+        ]
+      },
+      "84": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "5.25rem",
+        "comment": "84px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "5.25rem",
+          "comment": "84px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "84"
+        },
+        "path": [
+          "ids",
+          "size",
+          "84"
+        ]
+      },
+      "88": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "5.5rem",
+        "comment": "88px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "5.5rem",
+          "comment": "88px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "88"
+        },
+        "path": [
+          "ids",
+          "size",
+          "88"
+        ]
+      },
+      "92": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "5.75rem",
+        "comment": "92px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "5.75rem",
+          "comment": "92px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "92"
+        },
+        "path": [
+          "ids",
+          "size",
+          "92"
+        ]
+      },
+      "96": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "6rem",
+        "comment": "96px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "6rem",
+          "comment": "96px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "96"
+        },
+        "path": [
+          "ids",
+          "size",
+          "96"
+        ]
+      },
+      "100": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "6.25rem",
+        "comment": "100px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "6.25rem",
+          "comment": "100px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "100"
+        },
+        "path": [
+          "ids",
+          "size",
+          "100"
+        ]
+      },
+      "104": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "6.5rem",
+        "comment": "104px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "6.5rem",
+          "comment": "104px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "104"
+        },
+        "path": [
+          "ids",
+          "size",
+          "104"
+        ]
+      },
+      "120": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "7.5rem",
+        "comment": "120px",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "7.5rem",
+          "comment": "120px"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "120"
+        },
+        "path": [
+          "ids",
+          "size",
+          "120"
+        ]
+      },
+      "2px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "2px",
+        "comment": "0.125rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "2px",
+          "comment": "0.125rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "2px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "2px"
+        ]
+      },
+      "4px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "4px",
+        "comment": "0.25rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "4px",
+          "comment": "0.25rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "4px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "4px"
+        ]
+      },
+      "8px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "8px",
+        "comment": "0.5rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "8px",
+          "comment": "0.5rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "8px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "8px"
+        ]
+      },
+      "12px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "12px",
+        "comment": "0.75rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "12px",
+          "comment": "0.75rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "12px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "12px"
+        ]
+      },
+      "16px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "16px",
+        "comment": "1rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "16px",
+          "comment": "1rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "16px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "16px"
+        ]
+      },
+      "20px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "20px",
+        "comment": "1.25rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "20px",
+          "comment": "1.25rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "20px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "20px"
+        ]
+      },
+      "24px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "24px",
+        "comment": "1.5rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "24px",
+          "comment": "1.5rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "24px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "24px"
+        ]
+      },
+      "28px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "28px",
+        "comment": "1.75rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "28px",
+          "comment": "1.75rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "28px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "28px"
+        ]
+      },
+      "32px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "32px",
+        "comment": "2rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "32px",
+          "comment": "2rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "32px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "32px"
+        ]
+      },
+      "36px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "36px",
+        "comment": "2.25rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "36px",
+          "comment": "2.25rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "36px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "36px"
+        ]
+      },
+      "40px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "40px",
+        "comment": "2.5rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "40px",
+          "comment": "2.5rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "40px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "40px"
+        ]
+      },
+      "44px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "44px",
+        "comment": "2.75rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "44px",
+          "comment": "2.75rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "44px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "44px"
+        ]
+      },
+      "48px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "48px",
+        "comment": "3rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "48px",
+          "comment": "3rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "48px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "48px"
+        ]
+      },
+      "52px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "52px",
+        "comment": "3.25rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "52px",
+          "comment": "3.25rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "52px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "52px"
+        ]
+      },
+      "56px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "56px",
+        "comment": "3.5rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "56px",
+          "comment": "3.5rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "56px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "56px"
+        ]
+      },
+      "60px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "60px",
+        "comment": "3.75rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "60px",
+          "comment": "3.75rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "60px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "60px"
+        ]
+      },
+      "64px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "64px",
+        "comment": "4rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "64px",
+          "comment": "4rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "64px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "64px"
+        ]
+      },
+      "68px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "68px",
+        "comment": "4.25rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "68px",
+          "comment": "4.25rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "68px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "68px"
+        ]
+      },
+      "72px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "72px",
+        "comment": "4.5rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "72px",
+          "comment": "4.5rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "72px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "72px"
+        ]
+      },
+      "76px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "76px",
+        "comment": "4.75rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "76px",
+          "comment": "4.75rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "76px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "76px"
+        ]
+      },
+      "80px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "80px",
+        "comment": "5rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "80px",
+          "comment": "5rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "80px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "80px"
+        ]
+      },
+      "84px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "84px",
+        "comment": "5.25rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "84px",
+          "comment": "5.25rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "84px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "84px"
+        ]
+      },
+      "88px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "88px",
+        "comment": "5.5rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "88px",
+          "comment": "5.5rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "88px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "88px"
+        ]
+      },
+      "92px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "92px",
+        "comment": "5.75rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "92px",
+          "comment": "5.75rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "92px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "92px"
+        ]
+      },
+      "96px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "96px",
+        "comment": "6rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "96px",
+          "comment": "6rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "96px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "96px"
+        ]
+      },
+      "100px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "100px",
+        "comment": "6.25rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "100px",
+          "comment": "6.25rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "100px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "100px"
+        ]
+      },
+      "104px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "104px",
+        "comment": "6.5rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "104px",
+          "comment": "6.5rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "104px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "104px"
+        ]
+      },
+      "120px": {
+        "nob": [
+          "system",
+          "category",
+          "scale"
+        ],
+        "value": "120px",
+        "comment": "7.5rem",
+        "filePath": "size/src/size.tokens.json",
+        "isSource": true,
+        "original": {
+          "nob": [
+            "system",
+            "category",
+            "scale"
+          ],
+          "value": "120px",
+          "comment": "7.5rem"
+        },
+        "attributes": {
+          "category": "ids",
+          "type": "size",
+          "item": "120px"
+        },
+        "path": [
+          "ids",
+          "size",
+          "120px"
+        ]
+      }
     }
   }
 }
