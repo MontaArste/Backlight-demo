@@ -1,0 +1,73 @@
+{
+  "rlx": {
+    "tokenset": "themeDark",
+    "ui-shell": {
+      "color": {
+        "background": {
+          "nob": ["system", "component", "category", "property"],
+          "value": "rgb(201, 221, 234)"
+        }
+      }
+    },
+    "menubar": {
+      "action-button": {
+        "color": {
+          "text": {
+            "normal": {
+              "nob": [
+                "system",
+                "component",
+                "element",
+                "category",
+                "variant",
+                "state"
+              ],
+              "value": "rgb(8, 59, 92)"
+            },
+            "hover": {
+              "nob": [
+                "system",
+                "component",
+                "element",
+                "category",
+                "variant",
+                "state"
+              ],
+              "value": "rgb(47, 120, 168)"
+            }
+          },
+          "background": {
+            "normal": {
+              "nob": [
+                "system",
+                "component",
+                "element",
+                "category",
+                "variant",
+                "state"
+              ],
+              "value": "transparent"
+            },
+            "hover": {
+              "nob": [
+                "system",
+                "component",
+                "element",
+                "category",
+                "variant",
+                "state"
+              ],
+              "value": "rgb(255,255,255)"
+            }
+          }
+        }
+      },
+      "color": {
+        "background": {
+          "nob": ["system", "component", "category", "property"],
+          "value": "rgb(201, 221, 234)"
+        }
+      }
+    }
+  }
+}
